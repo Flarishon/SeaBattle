@@ -20,4 +20,5 @@ int main()
         window.display();
     }
     std::cout << "Hello, World!";
+    std::cout << "Hell nah";
 }
